@@ -1,0 +1,33 @@
+{
+  "name": "@wanten/hello-world",
+  "version": "1.1.2",
+  "private": false,
+  "description": "Wanten's first npm package",
+  "keywords": [
+    "hello-world"
+  ],
+  "homepage": "https://github.com/WantenMN/hello-world",
+  "bugs": {
+    "url": "https://github.com/WantenMN/hello-world/issues",
+    "email": "WantenMN@gamil.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WantenMN/hello-world.git"
+  },
+  "funding": "https://github.com/WantenMN",
+  "license": "MIT",
+  "author": {
+    "name": "Wanten",
+    "email": "WantenMN@gmail.com",
+    "url": "https://github.com/WantenMN"
+  },
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
